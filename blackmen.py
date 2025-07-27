@@ -30,7 +30,7 @@ MAGIC_RECAPTCHA_TOKEN = "09ANMylNCxCsR-EALV_dP3Uu9rxSkQG-0xTH4zhiWAwivWepExAlRqC
 DB_FILE = "sms_database.db"
 
 # --- Telegram Configuration ---
-TELEGRAM_BOT_TOKEN = "8072863518:AAG86bpcOmB-Hwzjb23Gch9WFmca6ETDs1Q"
+TELEGRAM_BOT_TOKEN = "8410660958:AAHxZezzh_PBhr4hR4f-PBNj3ELDHoFZTb0"
 # This is the hardcoded destination for all SMS and new range notifications.
 DESTINATION_CHAT_ID = "7076228594"
 # This is for operational messages (like startup/shutdown alerts).
